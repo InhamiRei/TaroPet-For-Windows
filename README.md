@@ -21,9 +21,6 @@ pnpm start
 
 ### Screenshot ###
 
-- kkr
-![kkr](https://inhami.com/static/githubImage/TaroPet-For-Windows/kkr.png)
-- kru
-![kru](https://inhami.com/static/githubImage/TaroPet-For-Windows/kru.png)
-- pko
-![pko](https://inhami.com/static/githubImage/TaroPet-For-Windows/pko.png)
+- ![kkr](https://inhami.com/static/githubImage/TaroPet-For-Windows/kkr.png)
+- ![kru](https://inhami.com/static/githubImage/TaroPet-For-Windows/kru.png)
+- ![pko](https://inhami.com/static/githubImage/TaroPet-For-Windows/pko.png)
