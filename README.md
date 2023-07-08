@@ -9,14 +9,22 @@ TaroPet For Windows
 
 ### How to build ###
 
+install
+
 ```sh
 pnpm install
 ```
 
-Then, to build the source, run:
+Then, to start
 
 ```sh
 pnpm start
+```
+
+package
+
+```sh
+pnpm run make
 ```
 
 ### Screenshot ###
